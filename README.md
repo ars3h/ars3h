@@ -10,7 +10,7 @@
 </div>
 <p align="center">
   <samp>
-Hello there, I'm Nechaev. DevOps Engineer, Open Source Enthusiast from Moscow.
+Hello there, I'm Nechaev. DevOps Engineer enthusiast from Moscow.
   </samp>
   <br/>
   <br/>
